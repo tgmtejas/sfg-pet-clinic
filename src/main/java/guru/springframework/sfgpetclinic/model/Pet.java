@@ -2,6 +2,9 @@ package guru.springframework.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
+/**
+ * Pet class
+ */
 public class Pet {
 
     private PetType petType;
